@@ -1,6 +1,6 @@
 ![Header Image](header.png)
 
-<center># Hi there 👋 I'm Srivignesh Kavle S ! </center>
+# Hi there 👋 I'm Srivignesh Kavle S ! 
 
 ### I am a skilled problem solver with a track record of successfully developing web and mobile applications
 
