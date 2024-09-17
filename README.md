@@ -11,7 +11,7 @@
 
   <br />
   ## Some of my works
-  ![weneedtotalk](weneedtotalk.jpg)
+  ![Header Image](header.png)
   </div>
   
   
