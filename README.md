@@ -1,5 +1,5 @@
 ![Header Image](header.png)
-![](weneedtotalk.jpg)
+
 # Hi there 👋 I'm Srivignesh Kavle S ! </h1>
 
 <h3 align="center">I am a skilled problem solver with a track record of successfully developing web and mobile applications ❤</h3>  
@@ -12,7 +12,7 @@
   <br />
   </div>
   
-  
+  ![](weneedtotalk.jpg)
   - 🔭 I’m currently a student
 - 🌱 I’m currently learning Full-stack development
 - 💬 Ask me about any places in India
