@@ -1,4 +1,4 @@
-![Header Image](img/header.png)
+![Header Image](header.png)
 
 <h1 align="center"> Hi there 👋 I'm Srivignesh Kavle S ! </h1>
 
