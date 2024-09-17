@@ -11,18 +11,15 @@
 
   <br />
   </div>
+  
 ## Some of works
   ![](weneedtotalk.jpg)
-  - 🔭 I’m currently a student
+
+  
+ - 🔭 I’m currently a student
 - 🌱 I’m currently learning Full-stack development
 - 💬 Ask me about any places in India
 - 📫 How to reach me: ramnathkavle@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Tea over Cofee
-<!--
-**Srivignesh95/Srivignesh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
