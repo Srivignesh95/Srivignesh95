@@ -13,7 +13,7 @@
   </div>
   
 ## Some of works
-  ![](weneedtotalk.jpg)
+  ![](weneedtotalk.jpg) ![](ODN.jpg)
 
   
  - 🔭 I’m currently a student
