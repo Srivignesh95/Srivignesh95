@@ -11,15 +11,16 @@
 
   <br />
   </div>
-  
-## Some of works
-  ![](weneedtotalk.jpg) ![](ODN.jpg)
-
-  
+    
  - 🔭 I’m currently a student
 - 🌱 I’m currently learning Full-stack development
 - 💬 Ask me about any places in India
 - 📫 How to reach me: ramnathkavle@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Tea over Cofee
+
+## Some of works
+  ![](weneedtotalk.jpg) ![](ODN.jpg)
+
+
 
