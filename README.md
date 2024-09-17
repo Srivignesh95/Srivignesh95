@@ -16,7 +16,7 @@ An enthusiastic full-stack developer from India.I enjoy creating web application
 - ⚡ Fun fact: Tea over Cofee
 
 ## Some of works
-  ![](weneedtotalk.jpg) ![](ODN.jpg)
+  ![](myworks.png)
 
 
 
