@@ -7,7 +7,6 @@ I've worked at AstraZeneca India, Frost & Sullivan, and Altimetrik India. These 
 ### Recent work
 - [calgary2banff.com](https://calgary2banff.com): Site, SEO, and upkeep for Advantage Tours & Shuttles
 - [sttimothy.ca](https://sttimothy.ca): Website for St. Timothy's Anglican Church
-- [cannymindstech.com](https://cannymindstech.com)
 
 ### Tech I use
 WordPress · PHP · JavaScript · HTML/CSS · MySQL
