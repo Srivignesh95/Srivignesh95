@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ## Hi, I'm Vicky (Srivignesh Kavle) 👋
 
 I'm a full stack developer based in Kitchener, Ontario, with over five years of experience building web applications. Most of my work is in WordPress and PHP, plus JavaScript on the front end.
